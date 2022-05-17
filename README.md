@@ -6,3 +6,10 @@ For now I have learned the below:
 2) Git
 3) Github
 4) Visualcode
+
+
+My hobbies are :
+
+1) Practising Yoga
+2) Dancing
+3) Gardening
